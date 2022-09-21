@@ -14,6 +14,7 @@
 		FAE8D21A28DA86F1007D7285 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAE8D21928DA86F1007D7285 /* Extensions.swift */; };
 		FAE8D21C28DA8A81007D7285 /* TransactionModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAE8D21B28DA8A81007D7285 /* TransactionModel.swift */; };
 		FAE8D21E28DA8D9C007D7285 /* PreviewData.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAE8D21D28DA8D9C007D7285 /* PreviewData.swift */; };
+		FAE8D22028DA8F60007D7285 /* TransactionRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAE8D21F28DA8F60007D7285 /* TransactionRow.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -25,6 +26,7 @@
 		FAE8D21928DA86F1007D7285 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		FAE8D21B28DA8A81007D7285 /* TransactionModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionModel.swift; sourceTree = "<group>"; };
 		FAE8D21D28DA8D9C007D7285 /* PreviewData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PreviewData.swift; sourceTree = "<group>"; };
+		FAE8D21F28DA8F60007D7285 /* TransactionRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionRow.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				FAE8D20B28DA84C7007D7285 /* ExpenseTrackerApp.swift */,
 				FAE8D20D28DA84C7007D7285 /* ContentView.swift */,
 				FAE8D21B28DA8A81007D7285 /* TransactionModel.swift */,
+				FAE8D21F28DA8F60007D7285 /* TransactionRow.swift */,
 				FAE8D21928DA86F1007D7285 /* Extensions.swift */,
 				FAE8D20F28DA84CA007D7285 /* Assets.xcassets */,
 				FAE8D21128DA84CA007D7285 /* Preview Content */,
@@ -149,6 +152,7 @@
 				FAE8D21E28DA8D9C007D7285 /* PreviewData.swift in Sources */,
 				FAE8D20E28DA84C7007D7285 /* ContentView.swift in Sources */,
 				FAE8D21A28DA86F1007D7285 /* Extensions.swift in Sources */,
+				FAE8D22028DA8F60007D7285 /* TransactionRow.swift in Sources */,
 				FAE8D21C28DA8A81007D7285 /* TransactionModel.swift in Sources */,
 				FAE8D20C28DA84C7007D7285 /* ExpenseTrackerApp.swift in Sources */,
 			);
