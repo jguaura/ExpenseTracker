@@ -1,5 +1,5 @@
 //
-//  TransactionModule.swift
+//  TransactionModel.swift
 //  ExpenseTracker
 //
 //  Created by José Guaura on 9/20/22.

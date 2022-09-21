@@ -12,7 +12,7 @@
 		FAE8D21028DA84CA007D7285 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAE8D20F28DA84CA007D7285 /* Assets.xcassets */; };
 		FAE8D21328DA84CA007D7285 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FAE8D21228DA84CA007D7285 /* Preview Assets.xcassets */; };
 		FAE8D21A28DA86F1007D7285 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAE8D21928DA86F1007D7285 /* Extensions.swift */; };
-		FAE8D21C28DA8A81007D7285 /* TransactionModule.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAE8D21B28DA8A81007D7285 /* TransactionModule.swift */; };
+		FAE8D21C28DA8A81007D7285 /* TransactionModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FAE8D21B28DA8A81007D7285 /* TransactionModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,7 +22,7 @@
 		FAE8D20F28DA84CA007D7285 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FAE8D21228DA84CA007D7285 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		FAE8D21928DA86F1007D7285 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
-		FAE8D21B28DA8A81007D7285 /* TransactionModule.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionModule.swift; sourceTree = "<group>"; };
+		FAE8D21B28DA8A81007D7285 /* TransactionModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransactionModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 			children = (
 				FAE8D20B28DA84C7007D7285 /* ExpenseTrackerApp.swift */,
 				FAE8D20D28DA84C7007D7285 /* ContentView.swift */,
-				FAE8D21B28DA8A81007D7285 /* TransactionModule.swift */,
+				FAE8D21B28DA8A81007D7285 /* TransactionModel.swift */,
 				FAE8D21928DA86F1007D7285 /* Extensions.swift */,
 				FAE8D20F28DA84CA007D7285 /* Assets.xcassets */,
 				FAE8D21128DA84CA007D7285 /* Preview Content */,
@@ -145,7 +145,7 @@
 			files = (
 				FAE8D20E28DA84C7007D7285 /* ContentView.swift in Sources */,
 				FAE8D21A28DA86F1007D7285 /* Extensions.swift in Sources */,
-				FAE8D21C28DA8A81007D7285 /* TransactionModule.swift in Sources */,
+				FAE8D21C28DA8A81007D7285 /* TransactionModel.swift in Sources */,
 				FAE8D20C28DA84C7007D7285 /* ExpenseTrackerApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
