@@ -21,6 +21,10 @@ struct Transaction: Identifiable {
   var isTransfer: Bool
   var isExpense: Bool
   var isEdited: Bool
+  
+  var dateParse: Date {
+    date.dateParsed()
+  }
 }
 
 enum TransactionType: String {
