@@ -57,8 +57,6 @@ struct TransactionRow_Previews: PreviewProvider {
       TransactionRow(transaction: transactionPreviewData)
         .preferredColorScheme(.light)
       TransactionRow(transaction: transactionPreviewData)
-      TransactionRow(transaction: transactionPreviewData)
-      TransactionRow(transaction: transactionPreviewData)
         .preferredColorScheme(.dark)
     }
   }
